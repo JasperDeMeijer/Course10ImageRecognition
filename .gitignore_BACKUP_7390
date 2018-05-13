@@ -1,9 +1,13 @@
 # pycharm files
 .idea/
 
+<<<<<<< HEAD
+# test stuff
+test/
+=======
 # test folder
 test/
 
 # test images folder
 test_images/
-
+>>>>>>> master
