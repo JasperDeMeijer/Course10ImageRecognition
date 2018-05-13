@@ -7,3 +7,5 @@ test/
 # test images folder
 test_images/
 
+# info file
+info.md
