@@ -7,3 +7,5 @@ test/
 # test images folder
 test_images/
 
+# pycache files
+preprocessing/__pycache__/
